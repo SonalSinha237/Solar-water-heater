@@ -1,1 +1,1 @@
-# Solar-water-heater
+Solar water heater
