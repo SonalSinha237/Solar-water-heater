@@ -43,7 +43,7 @@ Images of block diagram, circuit diagram and circuit implimentation can be found
 - [Heating element](https://arduinogetstarted.com/tutorials/arduino-controls-heating-element)
 
 ## Future Scope
-Although, we have used a bottle in this project but it is still not that portable. The whole circuit if implemented on a smaller scale using PCB or IC will make it more portable and easy to use. Using a thermally insulated bottle instead of a plastic one will ensure that water stays hot for longer duration.
+Although, we have used a bottle in this project but still it isn't that portable. The whole circuit if implemented on a smaller scale using PCB or IC will make it more portable and easy to use. Using a thermally insulated bottle instead of a plastic one will ensure that the water stays hot for longer duration.
 
 
 
